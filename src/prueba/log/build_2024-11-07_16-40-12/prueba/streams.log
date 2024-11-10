@@ -1,0 +1,53 @@
+[0.767s] Invoking command in '/home/jesus/Desktop/ros2_ws/src/prueba': PYTHONPATH=/home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/prueba build --build-base /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build install --record /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/install.log --install-scripts $base/lib/prueba --single-version-externally-managed install_data
+[1.048s] running egg_info
+[1.049s] creating build/prueba/prueba.egg-info
+[1.049s] writing build/prueba/prueba.egg-info/PKG-INFO
+[1.054s] writing dependency_links to build/prueba/prueba.egg-info/dependency_links.txt
+[1.057s] writing entry points to build/prueba/prueba.egg-info/entry_points.txt
+[1.058s] writing requirements to build/prueba/prueba.egg-info/requires.txt
+[1.058s] writing top-level names to build/prueba/prueba.egg-info/top_level.txt
+[1.059s] writing manifest file 'build/prueba/prueba.egg-info/SOURCES.txt'
+[1.091s] reading manifest file 'build/prueba/prueba.egg-info/SOURCES.txt'
+[1.093s] writing manifest file 'build/prueba/prueba.egg-info/SOURCES.txt'
+[1.093s] running build
+[1.093s] running build_py
+[1.094s] creating /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build
+[1.094s] creating /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib
+[1.094s] creating /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba
+[1.095s] copying prueba/vesc_can_node.py -> /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba
+[1.095s] copying prueba/can_receive_node.py -> /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba
+[1.096s] copying prueba/can_read_node.py -> /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba
+[1.096s] copying prueba/data_logger_node.py -> /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba
+[1.097s] copying prueba/__init__.py -> /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba
+[1.098s] copying prueba/rpm_sender_node.py -> /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba
+[1.098s] running install
+[1.100s] running install_lib
+[1.101s] creating /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba
+[1.102s] copying /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba/vesc_can_node.py -> /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba
+[1.103s] copying /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba/can_receive_node.py -> /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba
+[1.103s] copying /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba/can_read_node.py -> /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba
+[1.104s] copying /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba/data_logger_node.py -> /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba
+[1.104s] copying /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba/__init__.py -> /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba
+[1.106s] copying /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build/lib/prueba/rpm_sender_node.py -> /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba
+[1.106s] byte-compiling /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba/vesc_can_node.py to vesc_can_node.cpython-38.pyc
+[1.109s] byte-compiling /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba/can_receive_node.py to can_receive_node.cpython-38.pyc
+[1.109s] byte-compiling /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba/can_read_node.py to can_read_node.cpython-38.pyc
+[1.112s] byte-compiling /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba/data_logger_node.py to data_logger_node.cpython-38.pyc
+[1.112s] byte-compiling /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba/__init__.py to __init__.cpython-38.pyc
+[1.112s] byte-compiling /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba/rpm_sender_node.py to rpm_sender_node.cpython-38.pyc
+[1.113s] running install_data
+[1.114s] creating /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/share/ament_index
+[1.114s] creating /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/share/ament_index/resource_index
+[1.115s] creating /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/share/ament_index/resource_index/packages
+[1.118s] copying resource/prueba -> /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/share/ament_index/resource_index/packages
+[1.118s] copying package.xml -> /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/share/prueba
+[1.118s] running install_egg_info
+[1.118s] Copying build/prueba/prueba.egg-info to /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages/prueba-0.0.0-py3.8.egg-info
+[1.119s] running install_scripts
+[1.136s] Installing can_read_node script to /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/prueba
+[1.136s] Installing can_receive_node script to /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/prueba
+[1.136s] Installing data_logger_node script to /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/prueba
+[1.137s] Installing rpm_sender_node script to /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/prueba
+[1.137s] Installing vesc_can_node script to /home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/prueba
+[1.137s] writing list of installed files to '/home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/install.log'
+[1.175s] Invoked command in '/home/jesus/Desktop/ros2_ws/src/prueba' returned '0': PYTHONPATH=/home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/src/prueba/install/prueba/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/prueba build --build-base /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/build install --record /home/jesus/Desktop/ros2_ws/src/prueba/build/prueba/install.log --install-scripts $base/lib/prueba --single-version-externally-managed install_data

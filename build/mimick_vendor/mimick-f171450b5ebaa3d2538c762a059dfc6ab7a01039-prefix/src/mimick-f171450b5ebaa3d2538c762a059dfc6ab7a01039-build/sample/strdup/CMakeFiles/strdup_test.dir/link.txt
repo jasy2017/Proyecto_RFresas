@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Wall -Wextra -Wno-unused-parameter -pedantic -Werror  -rdynamic CMakeFiles/strdup_test.dir/test.c.o  -o strdup_test  -Wl,-rpath,/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/sample/strdup libstrdup.so ../../libmimick.a 

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/uncrustify-0.68.1"
+		},
+		{
+			"file" : "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/uncrustify-0.68.1.rule"
+		},
+		{
+			"file" : "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/uncrustify-0.68.1-complete.rule"
+		},
+		{
+			"file" : "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-install.rule"
+		},
+		{
+			"file" : "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-mkdir.rule"
+		},
+		{
+			"file" : "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-download.rule"
+		},
+		{
+			"file" : "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-update.rule"
+		},
+		{
+			"file" : "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-patch.rule"
+		},
+		{
+			"file" : "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-configure.rule"
+		},
+		{
+			"file" : "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"uncrustify-0.68.1"
+		],
+		"name" : "uncrustify-0.68.1"
+	}
+}

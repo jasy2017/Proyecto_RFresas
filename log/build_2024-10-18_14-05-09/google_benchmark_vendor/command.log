@@ -1,0 +1,3 @@
+Invoking command in '/home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor': /usr/bin/cmake /home/jesus/Desktop/ros2_ws/src/ament/google_benchmark_vendor -DCMAKE_INSTALL_PREFIX=/home/jesus/Desktop/ros2_ws/install/google_benchmark_vendor
+Invoked command in '/home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor' returned '0': /usr/bin/cmake /home/jesus/Desktop/ros2_ws/src/ament/google_benchmark_vendor -DCMAKE_INSTALL_PREFIX=/home/jesus/Desktop/ros2_ws/install/google_benchmark_vendor
+Invoking command in '/home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor': /usr/bin/cmake --build /home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor -- -j2 -l2

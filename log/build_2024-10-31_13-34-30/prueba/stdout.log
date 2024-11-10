@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/prueba/prueba.egg-info
+writing ../../build/prueba/prueba.egg-info/PKG-INFO
+writing dependency_links to ../../build/prueba/prueba.egg-info/dependency_links.txt
+writing entry points to ../../build/prueba/prueba.egg-info/entry_points.txt
+writing requirements to ../../build/prueba/prueba.egg-info/requires.txt
+writing top-level names to ../../build/prueba/prueba.egg-info/top_level.txt
+writing manifest file '../../build/prueba/prueba.egg-info/SOURCES.txt'
+reading manifest file '../../build/prueba/prueba.egg-info/SOURCES.txt'
+writing manifest file '../../build/prueba/prueba.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jesus/Desktop/ros2_ws/build/prueba/build
+creating /home/jesus/Desktop/ros2_ws/build/prueba/build/lib
+creating /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba
+copying prueba/vesc_can_node.py -> /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba
+copying prueba/__init__.py -> /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba
+running install
+running install_lib
+creating /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba
+copying /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba/vesc_can_node.py -> /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba
+copying /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba/__init__.py -> /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba
+byte-compiling /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba/vesc_can_node.py to vesc_can_node.cpython-38.pyc
+byte-compiling /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/jesus/Desktop/ros2_ws/install/prueba/share/ament_index
+creating /home/jesus/Desktop/ros2_ws/install/prueba/share/ament_index/resource_index
+creating /home/jesus/Desktop/ros2_ws/install/prueba/share/ament_index/resource_index/packages
+copying resource/prueba -> /home/jesus/Desktop/ros2_ws/install/prueba/share/ament_index/resource_index/packages
+copying package.xml -> /home/jesus/Desktop/ros2_ws/install/prueba/share/prueba
+running install_egg_info
+Copying ../../build/prueba/prueba.egg-info to /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba-0.0.0-py3.8.egg-info
+running install_scripts
+Installing vesc_can_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+writing list of installed files to '/home/jesus/Desktop/ros2_ws/build/prueba/install.log'

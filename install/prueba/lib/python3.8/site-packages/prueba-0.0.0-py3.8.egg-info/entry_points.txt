@@ -1,0 +1,7 @@
+[console_scripts]
+can_read_node = prueba.can_read_node:main
+can_receive_node = prueba.can_receive_node:main
+data_logger_node = prueba.data_logger_node:main
+rpm_sender_node = prueba.rpm_sender_node:main
+vesc_can_node = prueba.vesc_can_node:main
+

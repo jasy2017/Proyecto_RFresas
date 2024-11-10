@@ -1,0 +1,52 @@
+[1.346s] Invoking command in '/home/jesus/Desktop/ros2_ws/src/ament/ament_index/ament_index_python': AMENT_PREFIX_PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright:/home/jesus/Desktop/ros2_ws/install/ament_pep257:/home/jesus/Desktop/ros2_ws/install/ament_flake8:/home/jesus/Desktop/ros2_ws/install/ament_lint PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright/bin:/home/jesus/Desktop/ros2_ws/install/ament_pep257/bin:/home/jesus/Desktop/ros2_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/ament_index_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_copyright/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_pep257/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_flake8/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/ament_index_python build --build-base /home/jesus/Desktop/ros2_ws/build/ament_index_python/build install --record /home/jesus/Desktop/ros2_ws/build/ament_index_python/install.log --single-version-externally-managed install_data
+[1.741s] running egg_info
+[1.743s] creating ../../../../build/ament_index_python/ament_index_python.egg-info
+[1.744s] writing ../../../../build/ament_index_python/ament_index_python.egg-info/PKG-INFO
+[1.744s] writing dependency_links to ../../../../build/ament_index_python/ament_index_python.egg-info/dependency_links.txt
+[1.745s] writing entry points to ../../../../build/ament_index_python/ament_index_python.egg-info/entry_points.txt
+[1.745s] writing requirements to ../../../../build/ament_index_python/ament_index_python.egg-info/requires.txt
+[1.745s] writing top-level names to ../../../../build/ament_index_python/ament_index_python.egg-info/top_level.txt
+[1.746s] writing manifest file '../../../../build/ament_index_python/ament_index_python.egg-info/SOURCES.txt'
+[1.814s] reading manifest file '../../../../build/ament_index_python/ament_index_python.egg-info/SOURCES.txt'
+[1.816s] writing manifest file '../../../../build/ament_index_python/ament_index_python.egg-info/SOURCES.txt'
+[1.818s] running build
+[1.818s] running build_py
+[1.827s] creating /home/jesus/Desktop/ros2_ws/build/ament_index_python/build
+[1.827s] creating /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib
+[1.828s] creating /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python
+[1.828s] copying ament_index_python/search_paths.py -> /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python
+[1.829s] copying ament_index_python/resources.py -> /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python
+[1.829s] copying ament_index_python/cli.py -> /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python
+[1.830s] copying ament_index_python/__init__.py -> /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python
+[1.830s] copying ament_index_python/packages.py -> /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python
+[1.831s] copying ament_index_python/constants.py -> /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python
+[1.831s] running install
+[1.832s] running install_lib
+[1.833s] creating /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python
+[1.834s] copying /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python/search_paths.py -> /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python
+[1.834s] copying /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python/resources.py -> /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python
+[1.834s] copying /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python/cli.py -> /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python
+[1.835s] copying /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python/__init__.py -> /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python
+[1.835s] copying /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python/packages.py -> /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python
+[1.836s] copying /home/jesus/Desktop/ros2_ws/build/ament_index_python/build/lib/ament_index_python/constants.py -> /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python
+[1.836s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python/search_paths.py to search_paths.cpython-38.pyc
+[1.838s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python/resources.py to resources.cpython-38.pyc
+[1.839s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python/cli.py to cli.cpython-38.pyc
+[1.840s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python/__init__.py to __init__.cpython-38.pyc
+[1.846s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python/packages.py to packages.cpython-38.pyc
+[1.849s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python/constants.py to constants.cpython-38.pyc
+[1.851s] running install_data
+[1.858s] copying package.xml -> /home/jesus/Desktop/ros2_ws/install/ament_index_python/share/ament_index_python
+[1.858s] creating /home/jesus/Desktop/ros2_ws/install/ament_index_python/share/ament_index_python/environment
+[1.858s] copying completion/ament_index-argcomplete.bash -> /home/jesus/Desktop/ros2_ws/install/ament_index_python/share/ament_index_python/environment
+[1.859s] copying completion/ament_index-argcomplete.zsh -> /home/jesus/Desktop/ros2_ws/install/ament_index_python/share/ament_index_python/environment
+[1.859s] creating /home/jesus/Desktop/ros2_ws/install/ament_index_python/share/ament_index
+[1.859s] creating /home/jesus/Desktop/ros2_ws/install/ament_index_python/share/ament_index/resource_index
+[1.859s] creating /home/jesus/Desktop/ros2_ws/install/ament_index_python/share/ament_index/resource_index/packages
+[1.859s] copying resource/ament_index_python -> /home/jesus/Desktop/ros2_ws/install/ament_index_python/share/ament_index/resource_index/packages
+[1.859s] running install_egg_info
+[1.872s] Copying ../../../../build/ament_index_python/ament_index_python.egg-info to /home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages/ament_index_python-1.1.0-py3.8.egg-info
+[1.873s] running install_scripts
+[1.922s] Installing ament_index script to /home/jesus/Desktop/ros2_ws/install/ament_index_python/bin
+[1.923s] writing list of installed files to '/home/jesus/Desktop/ros2_ws/build/ament_index_python/install.log'
+[2.007s] Invoked command in '/home/jesus/Desktop/ros2_ws/src/ament/ament_index/ament_index_python' returned '0': AMENT_PREFIX_PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright:/home/jesus/Desktop/ros2_ws/install/ament_pep257:/home/jesus/Desktop/ros2_ws/install/ament_flake8:/home/jesus/Desktop/ros2_ws/install/ament_lint PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright/bin:/home/jesus/Desktop/ros2_ws/install/ament_pep257/bin:/home/jesus/Desktop/ros2_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/ament_index_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/ament_index_python/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_copyright/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_pep257/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_flake8/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/ament_index_python build --build-base /home/jesus/Desktop/ros2_ws/build/ament_index_python/build install --record /home/jesus/Desktop/ros2_ws/build/ament_index_python/install.log --single-version-externally-managed install_data

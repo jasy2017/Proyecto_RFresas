@@ -1,0 +1,100 @@
+[1.081s] Invoking command in '/home/jesus/Desktop/ros2_ws/src/ament/ament_package': PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/ament_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ament_package build --build-base /home/jesus/Desktop/ros2_ws/build/ament_package/build install --record /home/jesus/Desktop/ros2_ws/build/ament_package/install.log --single-version-externally-managed install_data
+[1.697s] running egg_info
+[1.698s] creating ../../../build/ament_package/ament_package.egg-info
+[1.699s] writing ../../../build/ament_package/ament_package.egg-info/PKG-INFO
+[1.700s] writing dependency_links to ../../../build/ament_package/ament_package.egg-info/dependency_links.txt
+[1.700s] writing top-level names to ../../../build/ament_package/ament_package.egg-info/top_level.txt
+[1.701s] writing manifest file '../../../build/ament_package/ament_package.egg-info/SOURCES.txt'
+[1.816s] reading manifest file '../../../build/ament_package/ament_package.egg-info/SOURCES.txt'
+[1.825s] writing manifest file '../../../build/ament_package/ament_package.egg-info/SOURCES.txt'
+[1.825s] running build
+[1.825s] running build_py
+[1.825s] creating /home/jesus/Desktop/ros2_ws/build/ament_package/build
+[1.825s] creating /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib
+[1.825s] creating /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package
+[1.825s] copying ament_package/__init__.py -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package
+[1.825s] copying ament_package/templates.py -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package
+[1.825s] creating /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template
+[1.826s] creating /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[1.826s] copying ament_package/template/environment_hook/library_path.sh -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[1.826s] copying ament_package/template/environment_hook/ament_prefix_path.bat -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[1.826s] copying ament_package/template/environment_hook/pkg_config_path.sh -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[1.826s] copying ament_package/template/environment_hook/path.sh -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[1.826s] copying ament_package/template/environment_hook/pythonpath.bat.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[1.826s] copying ament_package/template/environment_hook/ament_prefix_path.sh -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[1.826s] copying ament_package/template/environment_hook/path.bat -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[1.826s] copying ament_package/template/environment_hook/pythonpath.sh.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[1.833s] copying ament_package/template/environment_hook/pkg_config_path.bat -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook
+[1.834s] creating /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[1.834s] copying ament_package/template/isolated_prefix_level/local_setup.sh.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[1.835s] copying ament_package/template/isolated_prefix_level/local_setup.zsh -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[1.835s] copying ament_package/template/isolated_prefix_level/local_setup.bash -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[1.836s] copying ament_package/template/isolated_prefix_level/local_setup.bat.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[1.837s] copying ament_package/template/isolated_prefix_level/_order_isolated_packages.py -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[1.837s] creating /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/package_level
+[1.837s] copying ament_package/template/package_level/local_setup.sh.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/package_level
+[1.837s] copying ament_package/template/package_level/local_setup.zsh.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/package_level
+[1.837s] copying ament_package/template/package_level/local_setup.bat.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/package_level
+[1.837s] copying ament_package/template/package_level/local_setup.bash.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/package_level
+[1.837s] creating /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[1.837s] copying ament_package/template/prefix_level/_local_setup_util.py -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[1.841s] copying ament_package/template/prefix_level/local_setup.sh.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[1.842s] copying ament_package/template/prefix_level/local_setup.zsh -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[1.843s] copying ament_package/template/prefix_level/local_setup.bash -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[1.844s] copying ament_package/template/prefix_level/setup.bat.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[1.844s] copying ament_package/template/prefix_level/local_setup.bat.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[1.844s] copying ament_package/template/prefix_level/setup.zsh -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[1.844s] copying ament_package/template/prefix_level/setup.bash -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[1.844s] copying ament_package/template/prefix_level/setup.sh.in -> /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level
+[1.844s] running install
+[1.856s] running install_lib
+[1.872s] creating /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package
+[1.873s] creating /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template
+[1.873s] creating /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[1.874s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.sh.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[1.874s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.zsh -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[1.875s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.bash -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[1.876s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.bat.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[1.877s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/_order_isolated_packages.py -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level
+[1.877s] creating /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[1.878s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level/_local_setup_util.py -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[1.879s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.sh.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[1.879s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.zsh -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[1.880s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.bash -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[1.881s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level/setup.bat.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[1.882s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.bat.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[1.882s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level/setup.zsh -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[1.883s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level/setup.bash -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[1.884s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/prefix_level/setup.sh.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level
+[1.885s] creating /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/package_level
+[1.885s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/package_level/local_setup.sh.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/package_level
+[1.892s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/package_level/local_setup.zsh.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/package_level
+[1.893s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/package_level/local_setup.bat.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/package_level
+[1.894s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/package_level/local_setup.bash.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/package_level
+[1.894s] creating /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[1.896s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook/library_path.sh -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[1.897s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook/ament_prefix_path.bat -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[1.897s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook/pkg_config_path.sh -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[1.898s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook/path.sh -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[1.899s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook/pythonpath.bat.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[1.899s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook/ament_prefix_path.sh -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[1.901s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook/path.bat -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[1.901s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook/pythonpath.sh.in -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[1.902s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/template/environment_hook/pkg_config_path.bat -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/environment_hook
+[1.902s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/__init__.py -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package
+[1.903s] copying /home/jesus/Desktop/ros2_ws/build/ament_package/build/lib/ament_package/templates.py -> /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package
+[1.912s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/isolated_prefix_level/_order_isolated_packages.py to _order_isolated_packages.cpython-38.pyc
+[1.915s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/template/prefix_level/_local_setup_util.py to _local_setup_util.cpython-38.pyc
+[1.918s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/__init__.py to __init__.cpython-38.pyc
+[1.919s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package/templates.py to templates.cpython-38.pyc
+[1.921s] running install_data
+[1.921s] copying package.xml -> /home/jesus/Desktop/ros2_ws/install/ament_package/share/ament_package
+[1.922s] creating /home/jesus/Desktop/ros2_ws/install/ament_package/share/ament_index
+[1.922s] creating /home/jesus/Desktop/ros2_ws/install/ament_package/share/ament_index/resource_index
+[1.922s] creating /home/jesus/Desktop/ros2_ws/install/ament_package/share/ament_index/resource_index/packages
+[1.923s] copying resource/ament_package -> /home/jesus/Desktop/ros2_ws/install/ament_package/share/ament_index/resource_index/packages
+[1.923s] running install_egg_info
+[1.932s] Copying ../../../build/ament_package/ament_package.egg-info to /home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages/ament_package-0.9.5-py3.8.egg-info
+[1.934s] running install_scripts
+[1.996s] writing list of installed files to '/home/jesus/Desktop/ros2_ws/build/ament_package/install.log'
+[2.362s] Invoked command in '/home/jesus/Desktop/ros2_ws/src/ament/ament_package' returned '0': PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/ament_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/ament_package/lib/python3.8/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ament_package build --build-base /home/jesus/Desktop/ros2_ws/build/ament_package/build install --record /home/jesus/Desktop/ros2_ws/build/ament_package/install.log --single-version-externally-managed install_data

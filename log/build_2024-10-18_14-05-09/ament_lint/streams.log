@@ -1,0 +1,36 @@
+[1.282s] Invoking command in '/home/jesus/Desktop/ros2_ws/src/ament/ament_lint/ament_lint': PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/ament_lint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/ament_lint build --build-base /home/jesus/Desktop/ros2_ws/build/ament_lint/build install --record /home/jesus/Desktop/ros2_ws/build/ament_lint/install.log --single-version-externally-managed install_data
+[1.732s] running egg_info
+[1.733s] creating ../../../../build/ament_lint/ament_lint.egg-info
+[1.734s] writing ../../../../build/ament_lint/ament_lint.egg-info/PKG-INFO
+[1.736s] writing dependency_links to ../../../../build/ament_lint/ament_lint.egg-info/dependency_links.txt
+[1.737s] writing entry points to ../../../../build/ament_lint/ament_lint.egg-info/entry_points.txt
+[1.738s] writing requirements to ../../../../build/ament_lint/ament_lint.egg-info/requires.txt
+[1.738s] writing top-level names to ../../../../build/ament_lint/ament_lint.egg-info/top_level.txt
+[1.739s] writing manifest file '../../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[1.781s] reading manifest file '../../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[1.783s] writing manifest file '../../../../build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[1.783s] running build
+[1.783s] running build_py
+[1.783s] creating /home/jesus/Desktop/ros2_ws/build/ament_lint/build
+[1.784s] creating /home/jesus/Desktop/ros2_ws/build/ament_lint/build/lib
+[1.784s] creating /home/jesus/Desktop/ros2_ws/build/ament_lint/build/lib/ament_lint
+[1.784s] copying ament_lint/pytest_marker.py -> /home/jesus/Desktop/ros2_ws/build/ament_lint/build/lib/ament_lint
+[1.785s] copying ament_lint/__init__.py -> /home/jesus/Desktop/ros2_ws/build/ament_lint/build/lib/ament_lint
+[1.785s] running install
+[1.786s] running install_lib
+[1.788s] creating /home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint
+[1.789s] copying /home/jesus/Desktop/ros2_ws/build/ament_lint/build/lib/ament_lint/pytest_marker.py -> /home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint
+[1.789s] copying /home/jesus/Desktop/ros2_ws/build/ament_lint/build/lib/ament_lint/__init__.py -> /home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint
+[1.791s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint/pytest_marker.py to pytest_marker.cpython-38.pyc
+[1.793s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint/__init__.py to __init__.cpython-38.pyc
+[1.795s] running install_data
+[1.797s] copying package.xml -> /home/jesus/Desktop/ros2_ws/install/ament_lint/share/ament_lint
+[1.798s] creating /home/jesus/Desktop/ros2_ws/install/ament_lint/share/ament_index
+[1.799s] creating /home/jesus/Desktop/ros2_ws/install/ament_lint/share/ament_index/resource_index
+[1.800s] creating /home/jesus/Desktop/ros2_ws/install/ament_lint/share/ament_index/resource_index/packages
+[1.801s] copying resource/ament_lint -> /home/jesus/Desktop/ros2_ws/install/ament_lint/share/ament_index/resource_index/packages
+[1.808s] running install_egg_info
+[1.811s] Copying ../../../../build/ament_lint/ament_lint.egg-info to /home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages/ament_lint-0.9.8-py3.8.egg-info
+[1.812s] running install_scripts
+[1.853s] writing list of installed files to '/home/jesus/Desktop/ros2_ws/build/ament_lint/install.log'
+[1.946s] Invoked command in '/home/jesus/Desktop/ros2_ws/src/ament/ament_lint/ament_lint' returned '0': PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/ament_lint/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/ament_lint build --build-base /home/jesus/Desktop/ros2_ws/build/ament_lint/build install --record /home/jesus/Desktop/ros2_ws/build/ament_lint/install.log --single-version-externally-managed install_data

@@ -1,0 +1,332 @@
+[
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_add.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_add.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_add.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_assign.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_assign.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_assign.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_asm_colon.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_asm_colon.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_asm_colon.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_func_params.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_func_params.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_func_params.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_func_proto.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_func_proto.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_func_proto.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_init_brace.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_init_brace.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_init_brace.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_left_shift.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_left_shift.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_left_shift.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_log_al.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_log_al.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_log_al.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_nl_cont.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_nl_cont.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_nl_cont.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_oc_decl_colon.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_oc_decl_colon.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_oc_decl_colon.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_oc_msg_spec.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_oc_msg_spec.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_oc_msg_spec.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_oc_msg_colons.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_oc_msg_colons.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_oc_msg_colons.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_preprocessor.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_preprocessor.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_preprocessor.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_same_func_call_params.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_same_func_call_params.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_same_func_call_params.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_stack.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_stack.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_stack.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_struct_initializers.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_struct_initializers.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_struct_initializers.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_tab_column.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_tab_column.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_tab_column.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_tools.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_tools.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_tools.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_trailing_comments.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_trailing_comments.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_trailing_comments.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_typedefs.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_typedefs.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_typedefs.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/align_var_def_brace.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_var_def_brace.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/align_var_def_brace.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/args.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/args.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/args.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/backup.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/backup.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/backup.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/braces.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/braces.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/braces.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/brace_cleanup.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/brace_cleanup.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/brace_cleanup.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/ChunkStack.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/ChunkStack.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/ChunkStack.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/chunk_list.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/chunk_list.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/chunk_list.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/combine.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/combine.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/combine.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/combine_labels.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/combine_labels.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/combine_labels.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/compat_posix.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/compat_posix.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/compat_posix.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/compat_win32.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/compat_win32.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/compat_win32.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/cs_top_is_question.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/cs_top_is_question.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/cs_top_is_question.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/detect.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/detect.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/detect.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/enum_cleanup.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/enum_cleanup.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/enum_cleanup.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/flag_parens.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/flag_parens.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/flag_parens.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/indent.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/indent.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/indent.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/keywords.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/keywords.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/keywords.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/lang_pawn.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/lang_pawn.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/lang_pawn.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/language_tools.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/language_tools.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/language_tools.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/logger.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/logger.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/logger.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/logmask.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/logmask.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/logmask.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/md5.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/md5.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/md5.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/newlines.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/newlines.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/newlines.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/option.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/option.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/option.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/options_for_QT.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/options_for_QT.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/options_for_QT.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/output.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/output.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/output.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/parens.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/parens.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/parens.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/quick_align_again.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/quick_align_again.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/quick_align_again.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/frame_list.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/frame_list.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/frame_list.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/ParseFrame.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/ParseFrame.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/ParseFrame.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/punctuators.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/punctuators.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/punctuators.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/semicolons.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/semicolons.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/semicolons.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/sorting.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/sorting.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/sorting.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/space.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/space.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/space.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/tokenize.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/tokenize.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/tokenize.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/tokenize_cleanup.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/tokenize_cleanup.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/tokenize_cleanup.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/uncrustify.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/uncrustify.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/uncrustify.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/uncrustify_types.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/uncrustify_types.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/uncrustify_types.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/unc_text.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/unc_text.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/unc_text.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/unc_tools.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/unc_tools.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/unc_tools.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/unicode.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/unicode.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/unicode.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/universalindentgui.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/universalindentgui.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/universalindentgui.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/width.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/width.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src/width.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/options.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src/options.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src/options.cpp"
+},
+{
+  "directory": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build",
+  "command": "/usr/bin/c++  -DDEBUG -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1/src -I/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build   -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align   -std=gnu++0x -o CMakeFiles/uncrustify.dir/src/option_enum.cpp.o -c /home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src/option_enum.cpp",
+  "file": "/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-build/src/option_enum.cpp"
+}
+]

@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/uncrustify/uncrustify/archive/45b836cff040594994d364ad6fd3f04adc890a26.tar.gz'
+tag='MD5=7cc32ad800c8d639bdf145e2a113a66b'

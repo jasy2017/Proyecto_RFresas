@@ -1,0 +1,4 @@
+[console_scripts]
+data_logger_node = prueba.data_logger_node:main
+vesc_can_node = prueba.vesc_can_node:main
+

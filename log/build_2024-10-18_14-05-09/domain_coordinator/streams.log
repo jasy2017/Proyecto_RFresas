@@ -1,0 +1,32 @@
+[0.978s] Invoking command in '/home/jesus/Desktop/ros2_ws/src/ros2/ament_cmake_ros/domain_coordinator': AMENT_PREFIX_PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright:/home/jesus/Desktop/ros2_ws/install/ament_pep257:/home/jesus/Desktop/ros2_ws/install/ament_flake8:/home/jesus/Desktop/ros2_ws/install/ament_lint PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright/bin:/home/jesus/Desktop/ros2_ws/install/ament_pep257/bin:/home/jesus/Desktop/ros2_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/domain_coordinator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/domain_coordinator/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_copyright/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_pep257/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_flake8/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/domain_coordinator build --build-base /home/jesus/Desktop/ros2_ws/build/domain_coordinator/build install --record /home/jesus/Desktop/ros2_ws/build/domain_coordinator/install.log --single-version-externally-managed install_data
+[1.360s] running egg_info
+[1.369s] creating ../../../../build/domain_coordinator/domain_coordinator.egg-info
+[1.369s] writing ../../../../build/domain_coordinator/domain_coordinator.egg-info/PKG-INFO
+[1.370s] writing dependency_links to ../../../../build/domain_coordinator/domain_coordinator.egg-info/dependency_links.txt
+[1.370s] writing requirements to ../../../../build/domain_coordinator/domain_coordinator.egg-info/requires.txt
+[1.371s] writing top-level names to ../../../../build/domain_coordinator/domain_coordinator.egg-info/top_level.txt
+[1.372s] writing manifest file '../../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.458s] reading manifest file '../../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.462s] writing manifest file '../../../../build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[1.462s] running build
+[1.462s] running build_py
+[1.469s] creating /home/jesus/Desktop/ros2_ws/build/domain_coordinator/build
+[1.469s] creating /home/jesus/Desktop/ros2_ws/build/domain_coordinator/build/lib
+[1.470s] creating /home/jesus/Desktop/ros2_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.470s] copying domain_coordinator/__init__.py -> /home/jesus/Desktop/ros2_ws/build/domain_coordinator/build/lib/domain_coordinator
+[1.471s] running install
+[1.473s] running install_lib
+[1.475s] creating /home/jesus/Desktop/ros2_ws/install/domain_coordinator/lib/python3.8/site-packages/domain_coordinator
+[1.476s] copying /home/jesus/Desktop/ros2_ws/build/domain_coordinator/build/lib/domain_coordinator/__init__.py -> /home/jesus/Desktop/ros2_ws/install/domain_coordinator/lib/python3.8/site-packages/domain_coordinator
+[1.481s] byte-compiling /home/jesus/Desktop/ros2_ws/install/domain_coordinator/lib/python3.8/site-packages/domain_coordinator/__init__.py to __init__.cpython-38.pyc
+[1.493s] running install_data
+[1.493s] copying package.xml -> /home/jesus/Desktop/ros2_ws/install/domain_coordinator/share/domain_coordinator
+[1.494s] creating /home/jesus/Desktop/ros2_ws/install/domain_coordinator/share/ament_index
+[1.494s] creating /home/jesus/Desktop/ros2_ws/install/domain_coordinator/share/ament_index/resource_index
+[1.494s] creating /home/jesus/Desktop/ros2_ws/install/domain_coordinator/share/ament_index/resource_index/packages
+[1.494s] copying resource/domain_coordinator -> /home/jesus/Desktop/ros2_ws/install/domain_coordinator/share/ament_index/resource_index/packages
+[1.495s] running install_egg_info
+[1.497s] Copying ../../../../build/domain_coordinator/domain_coordinator.egg-info to /home/jesus/Desktop/ros2_ws/install/domain_coordinator/lib/python3.8/site-packages/domain_coordinator-0.9.2-py3.8.egg-info
+[1.497s] running install_scripts
+[1.536s] writing list of installed files to '/home/jesus/Desktop/ros2_ws/build/domain_coordinator/install.log'
+[1.599s] Invoked command in '/home/jesus/Desktop/ros2_ws/src/ros2/ament_cmake_ros/domain_coordinator' returned '0': AMENT_PREFIX_PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright:/home/jesus/Desktop/ros2_ws/install/ament_pep257:/home/jesus/Desktop/ros2_ws/install/ament_flake8:/home/jesus/Desktop/ros2_ws/install/ament_lint PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright/bin:/home/jesus/Desktop/ros2_ws/install/ament_pep257/bin:/home/jesus/Desktop/ros2_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/domain_coordinator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/domain_coordinator/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_copyright/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_pep257/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_flake8/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/domain_coordinator build --build-base /home/jesus/Desktop/ros2_ws/build/domain_coordinator/build install --record /home/jesus/Desktop/ros2_ws/build/domain_coordinator/install.log --single-version-externally-managed install_data

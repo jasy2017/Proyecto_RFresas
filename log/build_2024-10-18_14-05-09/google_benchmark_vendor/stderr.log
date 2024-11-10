@@ -1,0 +1,6 @@
+make[5]: *** [src/CMakeFiles/benchmark.dir/build.make:154: src/CMakeFiles/benchmark.dir/complexity.cc.o] Interrupt
+make[4]: *** [CMakeFiles/Makefile2:123: src/CMakeFiles/benchmark.dir/all] Interrupt
+make[3]: *** [Makefile:130: all] Interrupt
+make[2]: *** [CMakeFiles/benchmark-1.5.1.dir/build.make:115: benchmark-1.5.1-prefix/src/benchmark-1.5.1-stamp/benchmark-1.5.1-build] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:76: CMakeFiles/benchmark-1.5.1.dir/all] Interrupt
+make: *** [Makefile:130: all] Interrupt

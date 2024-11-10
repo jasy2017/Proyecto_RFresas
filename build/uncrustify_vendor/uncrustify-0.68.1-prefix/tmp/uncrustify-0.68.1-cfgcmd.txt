@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/uncrustify_vendor_install;-DCMAKE_BUILD_TYPE=;-Wno-dev;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

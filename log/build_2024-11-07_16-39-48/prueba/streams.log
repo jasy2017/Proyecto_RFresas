@@ -1,0 +1,25 @@
+[0.803s] Invoking command in '/home/jesus/Desktop/ros2_ws/src/prueba': PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/prueba/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/prueba build --build-base /home/jesus/Desktop/ros2_ws/build/prueba/build install --record /home/jesus/Desktop/ros2_ws/build/prueba/install.log --install-scripts $base/lib/prueba --single-version-externally-managed install_data
+[1.050s] running egg_info
+[1.051s] writing ../../build/prueba/prueba.egg-info/PKG-INFO
+[1.052s] writing dependency_links to ../../build/prueba/prueba.egg-info/dependency_links.txt
+[1.053s] writing entry points to ../../build/prueba/prueba.egg-info/entry_points.txt
+[1.055s] writing requirements to ../../build/prueba/prueba.egg-info/requires.txt
+[1.056s] writing top-level names to ../../build/prueba/prueba.egg-info/top_level.txt
+[1.100s] reading manifest file '../../build/prueba/prueba.egg-info/SOURCES.txt'
+[1.102s] writing manifest file '../../build/prueba/prueba.egg-info/SOURCES.txt'
+[1.103s] running build
+[1.103s] running build_py
+[1.103s] running install
+[1.105s] running install_lib
+[1.108s] running install_data
+[1.109s] running install_egg_info
+[1.111s] removing '/home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba-0.0.0-py3.8.egg-info' (and everything under it)
+[1.112s] Copying ../../build/prueba/prueba.egg-info to /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba-0.0.0-py3.8.egg-info
+[1.114s] running install_scripts
+[1.133s] Installing can_read_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+[1.133s] Installing can_receive_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+[1.135s] Installing data_logger_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+[1.135s] Installing rpm_sender_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+[1.136s] Installing vesc_can_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+[1.137s] writing list of installed files to '/home/jesus/Desktop/ros2_ws/build/prueba/install.log'
+[1.175s] Invoked command in '/home/jesus/Desktop/ros2_ws/src/prueba' returned '0': PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/prueba/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/prueba build --build-base /home/jesus/Desktop/ros2_ws/build/prueba/build install --record /home/jesus/Desktop/ros2_ws/build/prueba/install.log --install-scripts $base/lib/prueba --single-version-externally-managed install_data

@@ -1,0 +1,37 @@
+[0.944s] Invoking command in '/home/jesus/Desktop/ros2_ws/src/prueba': PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/prueba/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/prueba build --build-base /home/jesus/Desktop/ros2_ws/build/prueba/build install --record /home/jesus/Desktop/ros2_ws/build/prueba/install.log --install-scripts $base/lib/prueba --single-version-externally-managed install_data
+[1.177s] running egg_info
+[1.177s] creating ../../build/prueba/prueba.egg-info
+[1.177s] writing ../../build/prueba/prueba.egg-info/PKG-INFO
+[1.177s] writing dependency_links to ../../build/prueba/prueba.egg-info/dependency_links.txt
+[1.178s] writing entry points to ../../build/prueba/prueba.egg-info/entry_points.txt
+[1.178s] writing requirements to ../../build/prueba/prueba.egg-info/requires.txt
+[1.178s] writing top-level names to ../../build/prueba/prueba.egg-info/top_level.txt
+[1.181s] writing manifest file '../../build/prueba/prueba.egg-info/SOURCES.txt'
+[1.210s] reading manifest file '../../build/prueba/prueba.egg-info/SOURCES.txt'
+[1.214s] writing manifest file '../../build/prueba/prueba.egg-info/SOURCES.txt'
+[1.214s] running build
+[1.214s] running build_py
+[1.215s] creating /home/jesus/Desktop/ros2_ws/build/prueba/build
+[1.215s] creating /home/jesus/Desktop/ros2_ws/build/prueba/build/lib
+[1.215s] creating /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba
+[1.215s] copying prueba/vesc_can_node.py -> /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba
+[1.215s] copying prueba/__init__.py -> /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba
+[1.215s] running install
+[1.215s] running install_lib
+[1.218s] creating /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba
+[1.220s] copying /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba/vesc_can_node.py -> /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba
+[1.220s] copying /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba/__init__.py -> /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba
+[1.221s] byte-compiling /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba/vesc_can_node.py to vesc_can_node.cpython-38.pyc
+[1.221s] byte-compiling /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba/__init__.py to __init__.cpython-38.pyc
+[1.221s] running install_data
+[1.221s] creating /home/jesus/Desktop/ros2_ws/install/prueba/share/ament_index
+[1.221s] creating /home/jesus/Desktop/ros2_ws/install/prueba/share/ament_index/resource_index
+[1.222s] creating /home/jesus/Desktop/ros2_ws/install/prueba/share/ament_index/resource_index/packages
+[1.222s] copying resource/prueba -> /home/jesus/Desktop/ros2_ws/install/prueba/share/ament_index/resource_index/packages
+[1.222s] copying package.xml -> /home/jesus/Desktop/ros2_ws/install/prueba/share/prueba
+[1.222s] running install_egg_info
+[1.226s] Copying ../../build/prueba/prueba.egg-info to /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba-0.0.0-py3.8.egg-info
+[1.231s] running install_scripts
+[1.278s] Installing vesc_can_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+[1.278s] writing list of installed files to '/home/jesus/Desktop/ros2_ws/build/prueba/install.log'
+[1.321s] Invoked command in '/home/jesus/Desktop/ros2_ws/src/prueba' returned '0': PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/prueba/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/prueba build --build-base /home/jesus/Desktop/ros2_ws/build/prueba/build install --record /home/jesus/Desktop/ros2_ws/build/prueba/install.log --install-scripts $base/lib/prueba --single-version-externally-managed install_data

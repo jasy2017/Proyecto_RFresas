@@ -1,0 +1,10 @@
+/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/install/local.dir
+/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/install.dir
+/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/list_install_components.dir
+/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/rebuild_cache.dir
+/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/edit_cache.dir
+/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/test.dir
+/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/uncrustify-0.68.1.dir
+/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/install/strip.dir
+/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/uncrustify_vendor_uninstall.dir
+/home/jesus/Desktop/ros2_ws/build/uncrustify_vendor/CMakeFiles/uninstall.dir

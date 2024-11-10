@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/prueba/prueba.egg-info/PKG-INFO
+writing dependency_links to ../../build/prueba/prueba.egg-info/dependency_links.txt
+writing entry points to ../../build/prueba/prueba.egg-info/entry_points.txt
+writing requirements to ../../build/prueba/prueba.egg-info/requires.txt
+writing top-level names to ../../build/prueba/prueba.egg-info/top_level.txt
+reading manifest file '../../build/prueba/prueba.egg-info/SOURCES.txt'
+writing manifest file '../../build/prueba/prueba.egg-info/SOURCES.txt'
+running build
+running build_py
+copying prueba/can_read_node.py -> /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba
+running install
+running install_lib
+copying /home/jesus/Desktop/ros2_ws/build/prueba/build/lib/prueba/can_read_node.py -> /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba
+byte-compiling /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba/can_read_node.py to can_read_node.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/prueba/prueba.egg-info to /home/jesus/Desktop/ros2_ws/install/prueba/lib/python3.8/site-packages/prueba-0.0.0-py3.8.egg-info
+running install_scripts
+Installing can_read_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+Installing can_receive_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+Installing data_logger_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+Installing rpm_sender_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+Installing vesc_can_node script to /home/jesus/Desktop/ros2_ws/install/prueba/lib/prueba
+writing list of installed files to '/home/jesus/Desktop/ros2_ws/build/prueba/install.log'

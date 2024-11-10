@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mmk_test_cxx.dir/test.cpp.o  -o mmk_test_cxx  -Wl,-rpath,/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/test ../libmimick.a libfoo.so 

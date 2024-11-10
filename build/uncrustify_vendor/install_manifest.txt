@@ -1,0 +1,16 @@
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/bin/uncrustify
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/ament_index/resource_index/package_run_dependencies/uncrustify_vendor
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/ament_index/resource_index/parent_prefix_path/uncrustify_vendor
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/environment/ament_prefix_path.sh
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/environment/ament_prefix_path.dsv
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/environment/path.sh
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/environment/path.dsv
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.bash
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.sh
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.zsh
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.dsv
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/package.dsv
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/ament_index/resource_index/packages/uncrustify_vendor
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/cmake/uncrustify_vendorConfig.cmake
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/cmake/uncrustify_vendorConfig-version.cmake
+/home/jesus/Desktop/ros2_ws/install/uncrustify_vendor/share/uncrustify_vendor/package.xml

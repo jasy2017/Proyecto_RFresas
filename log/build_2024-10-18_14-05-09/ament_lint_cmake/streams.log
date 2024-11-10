@@ -1,0 +1,40 @@
+[1.300s] Invoking command in '/home/jesus/Desktop/ros2_ws/src/ament/ament_lint/ament_lint_cmake': AMENT_PREFIX_PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright:/home/jesus/Desktop/ros2_ws/install/ament_pep257:/home/jesus/Desktop/ros2_ws/install/ament_flake8:/home/jesus/Desktop/ros2_ws/install/ament_lint PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright/bin:/home/jesus/Desktop/ros2_ws/install/ament_pep257/bin:/home/jesus/Desktop/ros2_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_copyright/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_pep257/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_flake8/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/ament_lint_cmake build --build-base /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build install --record /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/install.log --single-version-externally-managed install_data
+[1.734s] running egg_info
+[1.735s] creating ../../../../build/ament_lint_cmake/ament_lint_cmake.egg-info
+[1.748s] writing ../../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/PKG-INFO
+[1.751s] writing dependency_links to ../../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/dependency_links.txt
+[1.751s] writing entry points to ../../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/entry_points.txt
+[1.752s] writing requirements to ../../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/requires.txt
+[1.752s] writing top-level names to ../../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/top_level.txt
+[1.756s] writing manifest file '../../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/SOURCES.txt'
+[1.887s] reading manifest file '../../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/SOURCES.txt'
+[1.888s] writing manifest file '../../../../build/ament_lint_cmake/ament_lint_cmake.egg-info/SOURCES.txt'
+[1.892s] running build
+[1.901s] running build_py
+[1.904s] creating /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build
+[1.907s] creating /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build/lib
+[1.911s] creating /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake
+[1.914s] copying ament_lint_cmake/cmakelint.py -> /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake
+[1.918s] copying ament_lint_cmake/main.py -> /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake
+[1.920s] copying ament_lint_cmake/__init__.py -> /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake
+[1.939s] running install
+[1.944s] running install_lib
+[1.955s] creating /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/lib/python3.8/site-packages/ament_lint_cmake
+[1.955s] copying /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake/cmakelint.py -> /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/lib/python3.8/site-packages/ament_lint_cmake
+[1.956s] copying /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake/main.py -> /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/lib/python3.8/site-packages/ament_lint_cmake
+[1.956s] copying /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build/lib/ament_lint_cmake/__init__.py -> /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/lib/python3.8/site-packages/ament_lint_cmake
+[1.961s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/lib/python3.8/site-packages/ament_lint_cmake/cmakelint.py to cmakelint.cpython-38.pyc
+[2.004s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/lib/python3.8/site-packages/ament_lint_cmake/main.py to main.cpython-38.pyc
+[2.004s] byte-compiling /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/lib/python3.8/site-packages/ament_lint_cmake/__init__.py to __init__.cpython-38.pyc
+[2.009s] running install_data
+[2.010s] copying package.xml -> /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/share/ament_lint_cmake
+[2.010s] creating /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/share/ament_index
+[2.010s] creating /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/share/ament_index/resource_index
+[2.010s] creating /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/share/ament_index/resource_index/packages
+[2.010s] copying resource/ament_lint_cmake -> /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/share/ament_index/resource_index/packages
+[2.011s] running install_egg_info
+[2.011s] Copying ../../../../build/ament_lint_cmake/ament_lint_cmake.egg-info to /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/lib/python3.8/site-packages/ament_lint_cmake-0.9.8-py3.8.egg-info
+[2.017s] running install_scripts
+[2.069s] Installing ament_lint_cmake script to /home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/bin
+[2.069s] writing list of installed files to '/home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/install.log'
+[2.142s] Invoked command in '/home/jesus/Desktop/ros2_ws/src/ament/ament_lint/ament_lint_cmake' returned '0': AMENT_PREFIX_PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright:/home/jesus/Desktop/ros2_ws/install/ament_pep257:/home/jesus/Desktop/ros2_ws/install/ament_flake8:/home/jesus/Desktop/ros2_ws/install/ament_lint PATH=/home/jesus/Desktop/ros2_ws/install/ament_copyright/bin:/home/jesus/Desktop/ros2_ws/install/ament_pep257/bin:/home/jesus/Desktop/ros2_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jesus/Desktop/ros2_ws/install/ament_lint_cmake/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_copyright/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_pep257/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_flake8/lib/python3.8/site-packages:/home/jesus/Desktop/ros2_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/ament_lint_cmake build --build-base /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/build install --record /home/jesus/Desktop/ros2_ws/build/ament_lint_cmake/install.log --single-version-externally-managed install_data

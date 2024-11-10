@@ -1,0 +1,111 @@
+[0.030s] Invoking command in '/home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor': /usr/bin/cmake /home/jesus/Desktop/ros2_ws/src/ament/google_benchmark_vendor -DCMAKE_INSTALL_PREFIX=/home/jesus/Desktop/ros2_ws/install/google_benchmark_vendor
+[0.187s] -- The CXX compiler identification is GNU 9.4.0
+[0.188s] -- Check for working CXX compiler: /usr/bin/c++
+[0.368s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.370s] -- Detecting CXX compiler ABI info
+[0.584s] -- Detecting CXX compiler ABI info - done
+[0.596s] -- Detecting CXX compile features
+[0.596s] -- Detecting CXX compile features - done
+[0.612s] -- Found Patch: /usr/bin/patch  
+[0.623s] -- Configuring done
+[0.629s] -- Generating done
+[0.629s] -- Build files have been written to: /home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor
+[0.630s] Invoked command in '/home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor' returned '0': /usr/bin/cmake /home/jesus/Desktop/ros2_ws/src/ament/google_benchmark_vendor -DCMAKE_INSTALL_PREFIX=/home/jesus/Desktop/ros2_ws/install/google_benchmark_vendor
+[0.640s] Invoking command in '/home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor': /usr/bin/cmake --build /home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor -- -j2 -l2
+[0.737s] [35m[1mScanning dependencies of target benchmark-1.5.1[0m
+[0.752s] [ 12%] [34m[1mCreating directories for 'benchmark-1.5.1'[0m
+[1.028s] [ 25%] [34m[1mPerforming download step (download, verify and extract) for 'benchmark-1.5.1'[0m
+[1.064s] -- Downloading...
+[1.064s]    dst='/home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor/benchmark-1.5.1-prefix/src/benchmark-1.5.1.tar.gz'
+[1.064s]    timeout='600 seconds'
+[1.064s] -- Using src='https://github.com/google/benchmark/archive/v1.5.1/benchmark-1.5.1.tar.gz'
+[2.435s] -- verifying file...
+[2.435s]        file='/home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor/benchmark-1.5.1-prefix/src/benchmark-1.5.1.tar.gz'
+[2.444s] -- Downloading... done
+[2.506s] -- extracting...
+[2.507s]      src='/home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor/benchmark-1.5.1-prefix/src/benchmark-1.5.1.tar.gz'
+[2.507s]      dst='/home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor/benchmark-1.5.1-prefix/src/benchmark-1.5.1'
+[2.512s] -- extracting... [tar xfz]
+[2.547s] -- extracting... [analysis]
+[2.547s] -- extracting... [rename]
+[2.547s] -- extracting... [clean up]
+[2.547s] -- extracting... done
+[2.591s] [ 37%] [34m[1mPerforming patch step for 'benchmark-1.5.1'[0m
+[2.610s] patching file cmake/thread_safety_attributes.cpp
+[2.613s] patching file CMakeLists.txt
+[2.681s] [ 50%] [34m[1mNo update step for 'benchmark-1.5.1'[0m
+[2.754s] [ 62%] [34m[1mPerforming configure step for 'benchmark-1.5.1'[0m
+[2.895s] -- The CXX compiler identification is GNU 9.4.0
+[2.910s] -- Check for working CXX compiler: /usr/bin/c++
+[3.244s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.245s] -- Detecting CXX compiler ABI info
+[3.460s] -- Detecting CXX compiler ABI info - done
+[3.472s] -- Detecting CXX compile features
+[3.482s] -- Detecting CXX compile features - done
+[3.483s] -- Failed to find LLVM FileCheck
+[3.499s] -- Found Git: /usr/bin/git (found version "2.25.1") 
+[3.500s] -- Version: 1.5.1
+[3.502s] -- Performing Test HAVE_CXX_FLAG_STD_CXX11
+[3.760s] -- Performing Test HAVE_CXX_FLAG_STD_CXX11 - Success
+[3.761s] -- Performing Test HAVE_CXX_FLAG_WALL
+[4.041s] -- Performing Test HAVE_CXX_FLAG_WALL - Success
+[4.041s] -- Performing Test HAVE_CXX_FLAG_WEXTRA
+[4.273s] -- Performing Test HAVE_CXX_FLAG_WEXTRA - Success
+[4.273s] -- Performing Test HAVE_CXX_FLAG_WSHADOW
+[4.583s] -- Performing Test HAVE_CXX_FLAG_WSHADOW - Success
+[4.585s] -- Performing Test HAVE_CXX_FLAG_WERROR
+[4.886s] -- Performing Test HAVE_CXX_FLAG_WERROR - Success
+[4.888s] -- Performing Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32
+[4.954s] -- Performing Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32 - Failed
+[4.955s] -- Performing Test HAVE_CXX_FLAG_FSTRICT_ALIASING
+[5.183s] -- Performing Test HAVE_CXX_FLAG_FSTRICT_ALIASING - Success
+[5.193s] -- Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS
+[5.317s] -- Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED_DECLARATIONS - Success
+[5.320s] -- Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED
+[5.530s] -- Performing Test HAVE_CXX_FLAG_WNO_DEPRECATED - Success
+[5.531s] -- Performing Test HAVE_CXX_FLAG_WSTRICT_ALIASING
+[5.756s] -- Performing Test HAVE_CXX_FLAG_WSTRICT_ALIASING - Success
+[5.756s] -- Performing Test HAVE_CXX_FLAG_WD654
+[5.792s] -- Performing Test HAVE_CXX_FLAG_WD654 - Failed
+[5.794s] -- Performing Test HAVE_CXX_FLAG_WTHREAD_SAFETY
+[5.840s] -- Performing Test HAVE_CXX_FLAG_WTHREAD_SAFETY - Failed
+[5.841s] -- Performing Test HAVE_CXX_FLAG_COVERAGE
+[5.936s] -- Performing Test HAVE_CXX_FLAG_COVERAGE - Success
+[5.937s] -- Performing Test HAVE_STD_REGEX
+[5.937s] -- Performing Test HAVE_STD_REGEX
+[10.012s] -- Performing Test HAVE_STD_REGEX -- success
+[10.012s] -- Performing Test HAVE_GNU_POSIX_REGEX
+[10.013s] -- Performing Test HAVE_GNU_POSIX_REGEX
+[10.109s] -- Performing Test HAVE_GNU_POSIX_REGEX -- failed to compile
+[10.109s] -- Performing Test HAVE_POSIX_REGEX
+[10.109s] -- Performing Test HAVE_POSIX_REGEX
+[10.630s] -- Performing Test HAVE_POSIX_REGEX -- success
+[10.631s] -- Performing Test HAVE_STEADY_CLOCK
+[10.631s] -- Performing Test HAVE_STEADY_CLOCK
+[11.123s] -- Performing Test HAVE_STEADY_CLOCK -- success
+[11.125s] -- Looking for C++ include pthread.h
+[11.345s] -- Looking for C++ include pthread.h - found
+[11.345s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.475s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[11.476s] -- Check if compiler accepts -pthread
+[11.665s] -- Check if compiler accepts -pthread - yes
+[11.667s] -- Found Threads: TRUE  
+[11.682s] -- Configuring done
+[11.698s] -- Generating done
+[11.699s] -- Build files have been written to: /home/jesus/Desktop/ros2_ws/build/google_benchmark_vendor/benchmark-1.5.1-prefix/src/benchmark-1.5.1-build
+[11.794s] [ 75%] [34m[1mPerforming build step for 'benchmark-1.5.1'[0m
+[11.881s] [35m[1mScanning dependencies of target benchmark[0m
+[11.936s] [  4%] [32mBuilding CXX object src/CMakeFiles/benchmark.dir/benchmark.cc.o[0m
+[14.540s] [  9%] [32mBuilding CXX object src/CMakeFiles/benchmark.dir/benchmark_api_internal.cc.o[0m
+[15.336s] [ 14%] [32mBuilding CXX object src/CMakeFiles/benchmark.dir/benchmark_name.cc.o[0m
+[15.985s] [ 19%] [32mBuilding CXX object src/CMakeFiles/benchmark.dir/benchmark_register.cc.o[0m
+[20.915s] [ 23%] [32mBuilding CXX object src/CMakeFiles/benchmark.dir/benchmark_runner.cc.o[0m
+[23.617s] [ 28%] [32mBuilding CXX object src/CMakeFiles/benchmark.dir/colorprint.cc.o[0m
+[24.745s] [ 33%] [32mBuilding CXX object src/CMakeFiles/benchmark.dir/commandlineflags.cc.o[0m
+[25.669s] [ 38%] [32mBuilding CXX object src/CMakeFiles/benchmark.dir/complexity.cc.o[0m
+[26.943s] make[5]: *** [src/CMakeFiles/benchmark.dir/build.make:154: src/CMakeFiles/benchmark.dir/complexity.cc.o] Interrupt
+[26.946s] make[4]: *** [CMakeFiles/Makefile2:123: src/CMakeFiles/benchmark.dir/all] Interrupt
+[26.946s] make[3]: *** [Makefile:130: all] Interrupt
+[26.948s] make[2]: *** [CMakeFiles/benchmark-1.5.1.dir/build.make:115: benchmark-1.5.1-prefix/src/benchmark-1.5.1-stamp/benchmark-1.5.1-build] Interrupt
+[26.949s] make[1]: *** [CMakeFiles/Makefile2:76: CMakeFiles/benchmark-1.5.1.dir/all] Interrupt
+[26.949s] make: *** [Makefile:130: all] Interrupt

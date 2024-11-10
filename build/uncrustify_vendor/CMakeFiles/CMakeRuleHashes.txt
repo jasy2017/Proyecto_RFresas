@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+c371a759c93f240e15d2fa6aa4a5992b CMakeFiles/uncrustify-0.68.1
+7d521eb4ed4418ad8ef9f74aaaf00837 CMakeFiles/uncrustify-0.68.1-complete
+926687d6e4bb4e873f4d89176d25e5b4 CMakeFiles/uncrustify_vendor_uninstall
+d4e9d1bbe7af04bdc85224c762693717 uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-build
+81fb68f5ee7ca5cb4fd9cccfae096894 uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-configure
+92abaecfaebc58a730de283b8f8da3c7 uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-download
+a59a4c11e88ddc8a291d7cd478b94024 uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-install
+d477ce5990c8e44b81582cec03b53575 uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-mkdir
+a86fcfcbb28aea4b1a92791e7c14a7d3 uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-patch
+4501502354f7ad9b4456c8fe47708eab uncrustify-0.68.1-prefix/src/uncrustify-0.68.1-stamp/uncrustify-0.68.1-update

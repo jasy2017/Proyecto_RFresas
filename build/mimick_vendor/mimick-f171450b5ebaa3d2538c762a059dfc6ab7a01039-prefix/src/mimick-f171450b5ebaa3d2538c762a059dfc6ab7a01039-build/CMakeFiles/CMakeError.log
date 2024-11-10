@@ -1,0 +1,59 @@
+Determining if the __stdio_common_vfprintf exist failed with the following output:
+Change Dir: /home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4656e/fast && make[3]: Entering directory '/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_4656e.dir/build.make CMakeFiles/cmTC_4656e.dir/build
+make[4]: Entering directory '/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4656e.dir/CheckSymbolExists.c.o
+/usr/bin/cc -D_GNU_SOURCE  -std=c99 -Wall -Wextra -Wno-unused-parameter    -o CMakeFiles/cmTC_4656e.dir/CheckSymbolExists.c.o   -c /home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘__stdio_common_vfprintf’ undeclared (first use in this function)
+    8 |   return ((int*)(&__stdio_common_vfprintf))[argc];
+      |                   ^~~~~~~~~~~~~~~~~~~~~~~
+/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:4:14: warning: parameter ‘argc’ set but not used [-Wunused-but-set-parameter]
+    4 | int main(int argc, char** argv)
+      |          ~~~~^~~~
+make[4]: *** [CMakeFiles/cmTC_4656e.dir/build.make:66: CMakeFiles/cmTC_4656e.dir/CheckSymbolExists.c.o] Error 1
+make[4]: Leaving directory '/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_4656e/fast] Error 2
+make[3]: Leaving directory '/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp'
+
+
+File /home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef __stdio_common_vfprintf
+  return ((int*)(&__stdio_common_vfprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Performing C SOURCE FILE Test HAVE_ELF_AUXINFO failed with the following output:
+Change Dir: /home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_dd2ea/fast && make[3]: Entering directory '/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_dd2ea.dir/build.make CMakeFiles/cmTC_dd2ea.dir/build
+make[4]: Entering directory '/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dd2ea.dir/src.c.o
+/usr/bin/cc -D_GNU_SOURCE  -std=c99 -Wall -Wextra -Wno-unused-parameter -DHAVE_ELF_AUXINFO   -o CMakeFiles/cmTC_dd2ea.dir/src.c.o   -c /home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp/src.c
+/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp/src.c:3:13: error: unknown type name ‘Elf64_Auxinfo’
+    3 |     typedef Elf64_Auxinfo checked_type;
+      |             ^~~~~~~~~~~~~
+make[4]: *** [CMakeFiles/cmTC_dd2ea.dir/build.make:66: CMakeFiles/cmTC_dd2ea.dir/src.c.o] Error 1
+make[4]: Leaving directory '/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp'
+make[3]: *** [Makefile:121: cmTC_dd2ea/fast] Error 2
+make[3]: Leaving directory '/home/jesus/Desktop/ros2_ws/build/mimick_vendor/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-prefix/src/mimick-f171450b5ebaa3d2538c762a059dfc6ab7a01039-build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+
+    #include <elf.h>
+    typedef Elf64_Auxinfo checked_type;
+    int main(void) { return 0; }
+  
